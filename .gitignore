@@ -1,0 +1,14 @@
+# Raw Olist data (download from Kaggle, see data/README.md)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

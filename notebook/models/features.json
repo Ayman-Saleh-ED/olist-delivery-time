@@ -1,0 +1,26 @@
+{
+  "cat_cols": [
+    "customer_state",
+    "seller_state",
+    "category"
+  ],
+  "num_cols": [
+    "price",
+    "freight",
+    "weight",
+    "volume",
+    "n_items",
+    "n_sellers",
+    "distance_km",
+    "same_state",
+    "limit_days",
+    "month",
+    "weekday",
+    "hour"
+  ],
+  "targets": [
+    "total",
+    "leg1",
+    "leg2"
+  ]
+}
